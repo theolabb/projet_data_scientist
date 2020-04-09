@@ -46,3 +46,8 @@ end
 puts x
 
 puts journalists.sort
+
+
+puts "pas répondu"
+
+puts journalists.index("@epenser")
